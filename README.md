@@ -1,5 +1,5 @@
-<---# extremeroaming--->
-<---This will be a template from my blog--->
+<!---# extremeroaming--->
+<!---This will be a template from my blog--->
 <!DOCTYPE HTML>
 <HTML lang="en">
   <head>
