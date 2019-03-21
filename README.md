@@ -1,3 +1,8 @@
+<style>
+  head {
+    background-color: rgb(160, 183, 204);
+  }
+</style>
 <!---# extremeroaming--->
 <!---This will be a template from my blog--->
 <!DOCTYPE HTML>
