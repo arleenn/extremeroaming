@@ -5,12 +5,11 @@
   <head>
     <h1>Extreme Roaming</h1>
   <style>
-    
-    body {background-color: blue;}
-    h1 {color: green;}
-    p {color: red;}
+     body {background-color: blue;}
+     h1 {color: green;}
+     p {color: red;}
    
-   
+  </style>
   </head>
   <hr>
   <body>
