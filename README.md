@@ -3,20 +3,8 @@
 <!DOCTYPE HTML>
 <HTML lang="en">
   <head>
-    <style>
-     body {
-      background-color: blue;
-      }
-     h1 {
-      color: green;
-      }
-     p {
-      color: red;
-      }
-    </style>
+   <h1>Extreme Roaming</h1>
   </head>
-  
-  <h1>Extreme Roaming</h1>
   <hr>
   <body>
     <h2>Hello World</h2>
