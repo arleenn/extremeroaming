@@ -3,12 +3,17 @@
 <!DOCTYPE HTML>
 <HTML lang="en">
   <head>
-  <style>
-     body {background-color: blue;}
-     h1 {color: green;}
-     p {color: red;}
-   
-  </style>
+    <style>
+     body {
+      background-color: blue;
+      }
+     h1 {
+      color: green;
+      }
+     p {
+      color: red;
+      }
+    </style>
   </head>
   
   <h1>Extreme Roaming</h1>
