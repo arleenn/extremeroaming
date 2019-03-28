@@ -3,7 +3,6 @@
 <!DOCTYPE HTML>
 <HTML lang="en">
   <head>
-    <h1>Extreme Roaming</h1>
   <style>
      body {background-color: blue;}
      h1 {color: green;}
@@ -11,6 +10,8 @@
    
   </style>
   </head>
+  
+  <h1>Extreme Roaming</h1>
   <hr>
   <body>
     <h2>Hello World</h2>
