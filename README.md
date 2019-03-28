@@ -3,7 +3,6 @@
 <!DOCTYPE HTML>
 <HTML lang="en">
   <head>
-  <meta charset="utf-8">
     <h1>Extreme Roaming</h1>
     <style>
     body {background-color: blue;}
