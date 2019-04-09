@@ -40,14 +40,14 @@
     </section>
 
     
-    <!--- <aside id="sidebar"> --->
-	<!--- <p>Taiwan is a very interesting place so I update my blog at least once a week.Make sure to check out all of the new photos and blog posts every week.</p> --->
-   <!---  </aside> --->
-	<!--- </div> --->
-   <!---  </div> --->
-   <!---  <footer id="main-footer"> --->
-      <!---  <p>Copyright &copy; 2019 Extreme Roaming. Author~Arleen Nicius</p> --->
-   <!---  </footer> --->
-    --->
+    <!--- aside id="sidebar" --->
+	<!--- Taiwan is a very interesting place so I update my blog at least once a week.Make sure to check out all of the new photos and blog posts every week. --->
+   <!---  aside --->
+	<!--- div --->
+   <!---  div --->
+   <!---  footer id="main-footer" --->
+      <!---  Copyright &copy; 2019 Extreme Roaming. Author~Arleen Nicius --->
+   <!---  footer --->
+   
   </body>
 </html>
