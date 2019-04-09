@@ -7,7 +7,7 @@
 <meta name="author" contact="Arleen Nicius">
 <meta name="viewport" content="width=device-width", initial-scale="1.0">
   <head>
-   <title>Extreme Roaming</title>
+   <h1>Extreme Roaming</h1>
    <link rel="stylesheet" type="text/css" href="/Users/arleennicius/Desktop/Blog/blog style.css">
   </head>
   <hr>
